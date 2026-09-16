@@ -1,0 +1,6 @@
+{
+  "name": "Windows AI Command Center",
+  "description": "Unified Windows desktop GUI to chat with Ollama, Claude, Gemini, and GPT with local API key management, secure script execution, and system-wide command logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
